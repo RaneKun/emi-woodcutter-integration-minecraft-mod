@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "emi_woodcutter",
+  "version": "${version}",
+  "name": "EMI Woodcutter Integration",
+  "description": "Adds Nemo's Woodcutter recipes to EMI.",
+  "authors": [
+    "Rane Kun"
+  ],
+  "contributors": [
+    "EMI - Original EMI mod by emilyploszaj",
+    "Nemo's Woodcutter - Original Woodcutter mod by thecolonel63"
+  ],
+  "contact": {
+    "sources": "https://github.com/RaneKun/emi-woodcutter-integration"
+  },
+  "license": "MIT",
+  "icon": "assets/emi_woodcutter/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "emi": [
+      "com.rane.emiwoodcutter.EmiWoodcutterPlugin"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.20.1",
+    "java": ">=21",
+    "emi": ">=1.1.0",
+    "nemos-woodcutter": ">=1.12.0"
+  },
+  "suggests": {
+    "fabric-api": "*"
+  }
+}
