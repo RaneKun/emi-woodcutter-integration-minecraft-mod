@@ -1,3 +1,10 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-brightgreen.svg)](https://www.minecraft.net/)
+[![Mod Loader](https://img.shields.io/badge/Mod%20Loader-Fabric-blue.svg)](https://fabricmc.net/)
+[![Fabric API](https://img.shields.io/badge/Fabric%20API-1.20.1-lightgrey.svg)](https://modrinth.com/mod/fabric-api)
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://adoptium.net/)
+[![Gradle](https://img.shields.io/badge/Gradle-8.8-blue.svg)](https://gradle.org/)
+
 # EMI Woodcutter Integration 🪚
 
 A Fabric mod for Minecraft 1.20.1 that bridges **Nemo's Woodcutter** and **EMI**, displaying all woodcutting recipes directly in the EMI recipe viewer.
